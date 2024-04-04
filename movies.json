@@ -1,0 +1,72 @@
+[
+    {
+      "MovieID": 1,
+      "Title": "The Empire Strikes Back",
+      "Genre": "Science Fiction",
+      "Length": "2:04",
+      "RottenTomatoesRating": 94
+    },
+    {
+      "MovieID": 2,
+      "Title": "Raiders of the Lost Ark",
+      "Genre": "Action, Adventure",
+      "Length": "1:55",
+      "RottenTomatoesRating": 95
+    },
+    {
+      "MovieID": 3,
+      "Title": "Back to the Future",
+      "Genre": "Science Fiction, Comedy",
+      "Length": "1:56",
+      "RottenTomatoesRating": 96
+    },
+    {
+      "MovieID": 4,
+      "Title": "E.T. the Extra-Terrestrial",
+      "Genre": "Science Fiction, Family",
+      "Length": "1:55",
+      "RottenTomatoesRating": 98
+    },
+    {
+      "MovieID": 5,
+      "Title": "The Shining",
+      "Genre": "Horror",
+      "Length": "2:26",
+      "RottenTomatoesRating": 84
+    },
+    {
+      "MovieID": 6,
+      "Title": "Blade Runner",
+      "Genre": "Science Fiction, Neo-Noir",
+      "Length": "1:57",
+      "RottenTomatoesRating": 90
+    },
+    {
+      "MovieID": 7,
+      "Title": "Ghostbusters",
+      "Genre": "Comedy, Fantasy",
+      "Length": "1:45",
+      "RottenTomatoesRating": 97
+    },
+    {
+      "MovieID": 8,
+      "Title": "The Breakfast Club",
+      "Genre": "Comedy, Drama",
+      "Length": "1:37",
+      "RottenTomatoesRating": 89
+    },
+    {
+      "MovieID": 9,
+      "Title": "Die Hard",
+      "Genre": "Action, Thriller",
+      "Length": "2:12",
+      "RottenTomatoesRating": 93
+    },
+    {
+      "MovieID": 10,
+      "Title": "The Princess Bride",
+      "Genre": "Adventure, Fantasy",
+      "Length": "1:38",
+      "RottenTomatoesRating": 97
+    }
+  ]  
